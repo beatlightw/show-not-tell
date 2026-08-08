@@ -1,0 +1,280 @@
+{
+  "books": [
+    {
+      "id": "harry-potter-philosophers-stone",
+      "title": "哈利·波特与魔法石",
+      "titleEn": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. 罗琳",
+      "authorEn": "J.K. Rowling",
+      "coverImage": "",
+      "intro": "以少年眼中的魔法世界为舞台，擅长用灯光、气味、声音和夸张的身体细节，把奇幻场景写得像电影镜头一样可感可见。",
+      "introEn": "Set in a magical world seen through a boy's eyes, these pages use light, scent, sound and exaggerated physical detail to make every fantasy scene feel like a film shot.",
+      "lessons": [
+        {
+          "id": "hp-lesson-01",
+          "title": "用身体细节写一个人",
+          "titleEn": "Character Through Body Details",
+          "scene": "清晨的四号普里怀特街，德思礼先生站在门前，准备开始普通得不能再普通的一天。",
+          "sceneEn": "Early morning at number four, Privet Drive, as Mr Dursley gets ready for a perfectly ordinary day.",
+          "photo": "",
+          "source": "Chapter 1 · The Boy Who Lived",
+          "tell": "Mr Dursley was large and had a big moustache.",
+          "show": "He was a big, beefy man with hardly any neck, although he did have a very large moustache.",
+          "translation": "他是个高大壮实、几乎没有脖子的男人，不过他的胡子倒是非常大。",
+          "techniques": [
+            "用“几乎没有脖子”这种夸张的尺寸代替“胖”这个笼统的词",
+            "用“非常浓密的胡子”补充细节，让身体成为可想象的画面",
+            "不直接写性格，让读者从体型和胡子里自己推断"
+          ],
+          "techniquesEn": [
+            "Use an exaggerated size detail like 'hardly any neck' instead of the vague word 'fat'.",
+            "Add a vivid detail such as 'a very large moustache' so the body becomes a picture you can imagine.",
+            "Don't state his personality; let readers infer it from the build and the moustache."
+          ]
+        },
+        {
+          "id": "hp-lesson-02",
+          "title": "让巨人破门而入",
+          "titleEn": "Let the Giant Break In",
+          "scene": "暴风雨夜的海边小屋，门被猛地撞开，一个巨人挤进屋里。",
+          "sceneEn": "A stormy night in a hut by the sea, as the door is smashed open and a giant squeezes inside.",
+          "photo": "",
+          "source": "Chapter 4 · The Keeper of the Keys",
+          "tell": "A huge man appeared in the doorway. His face was hairy and his eyes were dark.",
+          "show": "A giant of a man was standing in the doorway. His face was almost completely hidden by a long, shaggy mane of hair and a wild, tangled beard, but you could make out his eyes, glinting like black beetles under all the hair.",
+          "translation": "一个巨人般的男人站在门口。他的脸几乎完全被一头又长又乱蓬蓬的头发和一把野性缠结的大胡子遮住，只有那双眼睛还露在外面，像黑色甲虫一样在毛发下闪闪发光。",
+          "techniques": [
+            "先写整体：巨人般的男人",
+            "用“黑色甲虫”比喻眼睛，在浓密毛发中给读者一个亮点",
+            "先用头发和胡子遮住脸，再让眼睛露出来，制造发现感"
+          ],
+          "techniquesEn": [
+            "Start with the whole: 'a giant of a man'.",
+            "Compare the eyes to 'black beetles' so one bright detail stands out through the thick hair.",
+            "Hide the face in hair and beard first, then reveal the eyes for a sense of discovery."
+          ]
+        },
+        {
+          "id": "hp-lesson-03",
+          "title": "写第一次看见新世界",
+          "titleEn": "Seeing a New World for the First Time",
+          "scene": "哈利第一次走进魔法世界的商业街，眼睛不知道该往哪里看。",
+          "sceneEn": "Harry's first walk down a wizard shopping street, overwhelmed by everything there is to see.",
+          "photo": "",
+          "source": "Chapter 5 · Diagon Alley",
+          "tell": "Harry was amazed by the magical street and looked at all the shops and people.",
+          "show": "Harry wished he had about eight more eyes. He turned his head in every direction as they walked up the street, trying to look at everything at once: the shops, the things outside them, the people doing their shopping.",
+          "translation": "哈利真希望自己能再多出大约八只眼睛。他一边沿街走，一边把脑袋转向四面八方，想一下子看遍所有东西：那些店铺、店铺外摆着的东西，还有正在购物的人们。",
+          "techniques": [
+            "用“再多八只眼睛”的愿望表达惊叹，而不是写“他很惊讶”",
+            "用一连串具体名词铺开街道：店铺、货物、购物的人",
+            "用“把头转向四面八方”的动作呈现目不暇接"
+          ],
+          "techniquesEn": [
+            "Express wonder through the wish for 'about eight more eyes' instead of writing 'he was amazed'.",
+            "Spread the street out with concrete nouns: the shops, the things outside them, the people shopping.",
+            "Show the overwhelm through the action of turning his head in every direction."
+          ]
+        },
+        {
+          "id": "hp-lesson-04",
+          "title": "把城堡放在星光里",
+          "titleEn": "Place the Castle in Starlight",
+          "scene": "夜晚的黑湖上，小船向对岸驶去，霍格沃茨第一次出现在哈利眼前。",
+          "sceneEn": "On the Black Lake at night, the boats row toward the shore as Hogwarts first appears.",
+          "photo": "",
+          "source": "Chapter 6 · The Journey from Platform Nine and Three-Quarters",
+          "tell": "There was a big castle on a mountain across the lake.",
+          "show": "Perched atop a high mountain on the other side, its windows sparkling in the starry sky, was a vast castle with many turrets and towers.",
+          "translation": "湖对岸高山的顶上，矗立着一座巨大的城堡，许多塔楼和尖塔在缀满星星的夜空里，窗子闪闪发光。",
+          "techniques": [
+            "把最重要的名词放到句尾，先吊起悬念再揭晓城堡",
+            "用“窗子在星空下闪闪发光”这一处细节让远景活起来",
+            "用“塔楼和尖塔”这种具体建筑词汇代替“很大很壮观”"
+          ],
+          "techniquesEn": [
+            "Save the key noun for the end of the sentence, building suspense before revealing the castle.",
+            "Bring a distant scene to life with one detail: windows sparkling in the starry sky.",
+            "Use specific architecture words like 'turrets and towers' instead of 'big and impressive'."
+          ]
+        },
+        {
+          "id": "hp-lesson-05",
+          "title": "成千上万支漂浮的蜡烛",
+          "titleEn": "Thousands of Floating Candles",
+          "scene": "开学宴会的夜晚，一年级新生走进点满蜡烛的大礼堂。",
+          "sceneEn": "On the night of the start-of-term feast, the first-years enter the candlelit Great Hall.",
+          "photo": "",
+          "source": "Chapter 7 · The Sorting Hat",
+          "tell": "The Great Hall was bright and full of students sitting at long tables.",
+          "show": "It was lit by thousands and thousands of candles which were floating in mid-air over four long tables, where the rest of the students were sitting. These tables were laid with glittering golden plates and goblets.",
+          "translation": "成千上万支蜡烛在半空中漂浮，照亮四张长长的桌子，其他学生正坐在桌旁。桌上摆满了闪闪发光的金色盘子和高脚杯。",
+          "techniques": [
+            "重复“成千上万”强调数量和气势",
+            "让蜡烛在半空中漂浮，制造魔法世界独有的画面",
+            "用“闪闪发光的金色盘子”叠加材质、颜色和反光"
+          ],
+          "techniquesEn": [
+            "Repeat 'thousands and thousands' to emphasize scale and grandeur.",
+            "Set the candles floating in mid-air to create an image unique to the magical world.",
+            "Layer material, colour and reflection with 'glittering golden plates'."
+          ]
+        },
+        {
+          "id": "hp-lesson-06",
+          "title": "让帽子开口说话",
+          "titleEn": "Make the Hat Speak",
+          "scene": "分院仪式开始，破旧的分院帽在所有人面前突然动了。",
+          "sceneEn": "At the Sorting, the battered Sorting Hat suddenly moves in front of the whole school.",
+          "photo": "",
+          "source": "Chapter 7 · The Sorting Hat",
+          "tell": "Then the hat started to sing.",
+          "show": "A rip near the brim opened wide like a mouth – and the hat began to sing:",
+          "translation": "帽檐附近的一道裂缝像嘴巴一样张得大大的——帽子开始唱歌了。",
+          "techniques": [
+            "把一个旧物件写活：先是帽子抽动，再是裂缝张开",
+            "用“像嘴巴一样”的比喻让裂缝有表情",
+            "用破折号停顿，再揭晓帽子开始唱歌，制造惊喜"
+          ],
+          "techniquesEn": [
+            "Bring an old object to life: first the hat twitches, then the rip opens.",
+            "Use the simile 'like a mouth' to give the rip an expressive face.",
+            "Pause with a dash, then reveal that the hat begins to sing for a surprise."
+          ]
+        },
+        {
+          "id": "hp-lesson-07",
+          "title": "给怪物加上层层比喻",
+          "titleEn": "Layers of Similes for a Monster",
+          "scene": "万圣节之夜，哈利和罗恩在女生盥洗室撞见一头巨怪。",
+          "sceneEn": "On Hallowe'en, Harry and Ron come face to face with a troll in the girls' bathroom.",
+          "photo": "",
+          "source": "Chapter 10 · Hallowe'en",
+          "tell": "The troll was huge, grey and very ugly.",
+          "show": "Twelve feet tall, its skin was a dull, granite grey, its great lumpy body like a boulder with its small bald head perched on top like a coconut. It had short legs thick as tree trunks with flat, horny feet.",
+          "translation": "它有十二英尺高，皮肤是灰蒙蒙的花岗岩色，庞大的块状身体像一块巨石，小小的秃头像椰子一样搁在顶上。它的两条短腿粗得像树干，脚掌又平又硬。",
+          "techniques": [
+            "先给一个精确数字“十二英尺高”，建立体积感",
+            "连续使用比喻：身体像巨石、头像椰子、腿像树干",
+            "用颜色和材质“花岗岩灰”让皮肤真实可感"
+          ],
+          "techniquesEn": [
+            "Open with an exact number, 'twelve feet tall', to establish scale.",
+            "Stack similes: body like a boulder, head like a coconut, legs like tree trunks.",
+            "Use colour and material, 'granite grey', to make the skin feel real."
+          ]
+        },
+        {
+          "id": "hp-lesson-08",
+          "title": "小球也要有翅膀和颜色",
+          "titleEn": "A Small Ball with Wings and Colour",
+          "scene": "魁地奇训练前的傍晚，伍德打开箱子向哈利介绍四种球。",
+          "sceneEn": "Before Quidditch training, Oliver Wood opens the crate and introduces the four balls.",
+          "photo": "",
+          "source": "Chapter 11 · Quidditch",
+          "tell": "The Golden Snitch was a small gold ball with wings.",
+          "show": "Compared with the Quaffle and the Bludgers, it was tiny, about the size of a large walnut. It was bright gold and had little fluttering silver wings.",
+          "translation": "跟鬼飞球和游走球比起来，它小极了，大约只有一颗大核桃那么大。它通体亮金色，还长着两只不停扇动的银色小翅膀。",
+          "techniques": [
+            "用“大核桃”这种熟悉物品让读者立刻知道大小",
+            "用“亮金色”和“银色小翅膀”制造颜色对比",
+            "用“扑闪着”写出小东西的轻快与动态"
+          ],
+          "techniquesEn": [
+            "Compare it to a familiar object, 'a large walnut', so readers instantly know the size.",
+            "Contrast the 'bright gold' with the 'little fluttering silver wings'.",
+            "Use fluttering to show the small object's lightness and motion."
+          ]
+        },
+        {
+          "id": "hp-lesson-09",
+          "title": "用动作写渴望",
+          "titleEn": "Show Longing Through Action",
+          "scene": "深夜，哈利独自站在厄里斯魔镜前，第一次看见自己的父母。",
+          "sceneEn": "Late at night, Harry stands alone before the Mirror of Erised and sees his parents for the first time.",
+          "photo": "",
+          "source": "Chapter 12 · The Mirror of Erised",
+          "tell": "Harry looked at his family in the mirror and wished he could reach them.",
+          "show": "The Potters smiled and waved at Harry and he stared hungrily back at them, his hands pressed flat against the glass as though he was hoping to fall right through it and reach them.",
+          "translation": "波特夫妇朝哈利微笑、挥手，哈利则饥渴地盯着他们，双手平贴在镜面上，仿佛希望自己能直接穿过玻璃，来到他们身边。",
+          "techniques": [
+            "用“贪婪地盯着”和“双手平贴玻璃”表达强烈渴望",
+            "用“希望穿过玻璃去拥抱他们”的想象把愿望外化",
+            "不写“他很想家人”，全部用身体动作呈现"
+          ],
+          "techniquesEn": [
+            "Show fierce longing through 'stared hungrily' and hands pressed flat against the glass.",
+            "Externalize the wish through the image of hoping to fall right through the glass.",
+            "Never write 'he missed them'; convey it entirely through physical action."
+          ]
+        },
+        {
+          "id": "hp-lesson-10",
+          "title": "用光写恐怖",
+          "titleEn": "Using Light to Create Dread",
+          "scene": "禁林深处，月光断续照亮地上独角兽的血迹。",
+          "sceneEn": "Deep in the Forbidden Forest, moonlight picks out the trail of unicorn blood.",
+          "photo": "",
+          "source": "Chapter 15 · The Forbidden Forest",
+          "tell": "They could see drops of blood on the ground in the dark forest.",
+          "show": "Every now and then a ray of moonlight through the branches above lit a spot of silver blue blood on the fallen leaves.",
+          "translation": "时不时地，一束月光穿过头顶的枝叶，照亮落叶上的一点银蓝色血迹。",
+          "techniques": [
+            "用月光作为光源，只在光照到的地方揭示细节",
+            "用“银蓝色的血”这个不寻常的颜色制造诡异美",
+            "让恐怖的线索与安静的画面形成反差"
+          ],
+          "techniquesEn": [
+            "Use moonlight as the light source, revealing detail only where the light falls.",
+            "Choose an unusual colour, 'silver blue blood', for an eerie beauty.",
+            "Let the frightening clue contrast with the stillness of the scene."
+          ]
+        },
+        {
+          "id": "hp-lesson-11",
+          "title": "让奖品在黑暗中闪光",
+          "titleEn": "Trophies Glimmering in the Dark",
+          "scene": "深夜潜入奖杯室的路上，月光穿过高窗洒进走廊。",
+          "sceneEn": "On the way to the trophy room at night, moonlight streams through the high windows.",
+          "photo": "",
+          "source": "Chapter 9 · The Midnight Duel",
+          "tell": "The trophy room looked impressive in the moonlight.",
+          "show": "The crystal trophy cases glimmered where the moonlight caught them. Cups, shields, plates and statues winked silver and gold in the darkness.",
+          "translation": "水晶奖杯陈列柜在月光照到的地方微微闪光。奖杯、盾牌、盘子和雕像在黑暗中闪着银光和金光。",
+          "techniques": [
+            "用“月光照到的地方”引导读者的视线",
+            "用“闪烁”和“眨眼睛”给无生命的奖杯赋予动态",
+            "用银与金的颜色对比照亮黑暗的房间"
+          ],
+          "techniquesEn": [
+            "Guide the reader's eye with 'where the moonlight caught them'.",
+            "Use 'glimmered' and 'winked' to give lifeless trophies movement.",
+            "Light the dark room with the contrast of silver and gold."
+          ]
+        },
+        {
+          "id": "hp-lesson-12",
+          "title": "用比例写一只小龙",
+          "titleEn": "Proportion: A Baby Dragon",
+          "scene": "海格的小屋里，龙蛋裂开，小诺伯摔到桌上。",
+          "sceneEn": "In Hagrid's hut, the dragon egg cracks open and baby Norbert lands on the table.",
+          "photo": "",
+          "source": "Chapter 14 · Norbert the Norwegian Ridgeback",
+          "tell": "The baby dragon looked strange and was mostly wings.",
+          "show": "Its spiny wings were huge compared to its skinny jet body and it had a long snout with wide nostrils, stubs of horns and bulging, orange eyes.",
+          "translation": "它那多刺的翅膀和细瘦的乌黑身体比起来大得不成比例，长长的口鼻上张着宽大的鼻孔，还长着短短的犄角和鼓鼓的橙色眼睛。",
+          "techniques": [
+            "用“和细瘦的乌黑身体相比，翅膀大得不成比例”突出特征",
+            "用具体器官清单让怪物可信：口鼻、鼻孔、犄角、眼睛",
+            "用颜色“橙色眼睛”和“乌黑身体”制造鲜明对比"
+          ],
+          "techniquesEn": [
+            "Emphasize the feature through proportion: wings huge compared to the skinny jet body.",
+            "Make the creature believable with a concrete list: snout, nostrils, horns, eyes.",
+            "Contrast the 'orange eyes' with the 'jet body'."
+          ]
+        }
+      ]
+    }
+  ]
+}
