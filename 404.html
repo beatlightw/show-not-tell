@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting</title>
+    <script>
+      (function () {
+        var base = window.location.pathname.split('/').slice(0, -1).join('/');
+        sessionStorage.setItem(
+          'gh-pages-redirect',
+          window.location.pathname + window.location.search,
+        );
+        window.location.replace(base + '/');
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
