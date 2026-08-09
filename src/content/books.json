@@ -275,6 +275,282 @@
           ]
         }
       ]
+    },
+    {
+      "id": "old-man-and-the-sea",
+      "title": "老人与海",
+      "titleEn": "The Old Man and the Sea",
+      "author": "欧内斯特·海明威",
+      "authorEn": "Ernest Hemingway",
+      "coverImage": "",
+      "intro": "用克制的短句和精确的动作写海上的孤独与搏斗，光线、颜色、声音都成为人物内心最忠实的翻译。",
+      "introEn": "With restrained short sentences and exact physical action, it translates an old fisherman's solitude and struggle through light, colour and sound.",
+      "lessons": [
+        {
+          "id": "oms-lesson-01",
+          "title": "补丁帆与失败的旗帜",
+          "titleEn": "A Patched Sail and the Flag of Defeat",
+          "scene": "港口边，老人把小船拉上岸，男孩来帮他收起补丁累累的船帆。",
+          "sceneEn": "By the harbour, the old man hauls his skiff ashore and the boy helps him furl the patched sail.",
+          "photo": "",
+          "source": "Opening · The Old Man and the Sea",
+          "tell": "The sail was old and patched.",
+          "show": "The sail was patched with flour sacks and, furled, it looked like the flag of permanent defeat.",
+          "translation": "船帆是用面粉袋补起来的，卷起时看上去就像一面宣告永久失败的旗帜。",
+          "techniques": [
+            "用补丁、面粉袋这些具体物件代替“穷”",
+            "把卷起的船帆比作失败的旗帜，让物件承载象征",
+            "用“永久的失败”制造反差，反而突出人物不认输"
+          ],
+          "techniquesEn": [
+            "Use concrete objects such as patches and flour sacks instead of saying 'poor'.",
+            "Compare the furled sail to a flag of defeat so the object carries symbolism.",
+            "Let the phrase 'permanent defeat' create contrast, highlighting the old man's refusal to give up."
+          ]
+        },
+        {
+          "id": "oms-lesson-02",
+          "title": "眼睛和大海同色",
+          "titleEn": "Eyes the Colour of the Sea",
+          "scene": "码头上，老渔夫们远远看着他，男孩把缆绳递到他手里。",
+          "sceneEn": "On the docks, the older fishermen watch from a distance as the boy hands the old man the line.",
+          "photo": "",
+          "source": "Opening · The Old Man and the Sea",
+          "tell": "The old man looked old except for his bright eyes.",
+          "show": "Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.",
+          "translation": "他身上的一切都老了，只有眼睛除外；那双眼睛和大海同色，快乐而永不认输。",
+          "techniques": [
+            "用“除了眼睛”的排除法把视线集中到一个部位",
+            "让眼睛与大海同色，把人物融入环境",
+            "用“快乐而不认输”收束，但前面全是画面"
+          ],
+          "techniquesEn": [
+            "Use 'except' to focus all attention on one part of the body.",
+            "Make the eyes the same colour as the sea so the character merges with his world.",
+            "Close with 'cheerful and undefeated', but build the image first."
+          ]
+        },
+        {
+          "id": "oms-lesson-03",
+          "title": "希望像微风一样清新",
+          "titleEn": "Hope Freshening Like a Breeze",
+          "scene": "清晨的露台上，男孩送来咖啡和饵料，老人答应再次出海。",
+          "sceneEn": "Early morning on the Terrace, as the boy brings coffee and bait and the old man agrees to fish again.",
+          "photo": "",
+          "source": "Opening · The Old Man and the Sea",
+          "tell": "He felt more hopeful and confident.",
+          "show": "His hope and his confidence had never gone. But now they were freshening as when the breeze rises.",
+          "translation": "他的希望和信心从来没有消失过。可现在，它们正在变得清新，就像微风刚刚吹起。",
+          "techniques": [
+            "把希望和信心当作可以被“变得清新”的事物来写",
+            "用“微风升起”这一自然现象比喻内心变化",
+            "不直接写“他振作起来”，而是写感受的变化"
+          ],
+          "techniquesEn": [
+            "Treat hope and confidence as things that can 'freshen'.",
+            "Compare inner change to a breeze rising.",
+            "Instead of saying 'he felt better', describe the change in feeling."
+          ]
+        },
+        {
+          "id": "oms-lesson-04",
+          "title": "薄薄升起的太阳",
+          "titleEn": "The Sun Rose Thinly",
+          "scene": "黎明的大海上，老人划船离开海岸，太阳刚从海面升起。",
+          "sceneEn": "At dawn on the Gulf Stream, the old man rows away from shore as the sun rises.",
+          "photo": "",
+          "source": "The Gulf Stream · The Old Man and the Sea",
+          "tell": "The sun came up and he could see the other boats.",
+          "show": "The sun rose thinly from the sea and the old man could see the other boats, low on the water and well in toward the shore, spread out across the current.",
+          "translation": "太阳薄薄地从海面上升起，老人能看见其他渔船低低地浮在水上，整齐地散布在海流中，靠近海岸。",
+          "techniques": [
+            "用“薄薄地”修饰日出，写出清晨的光线质感",
+            "用低矮的船、靠近海岸、散布在海流中交代空间关系",
+            "从光源写到景物，建立清晰的视觉顺序"
+          ],
+          "techniquesEn": [
+            "Use 'thinly' to give the sunrise a specific texture of early light.",
+            "Place the boats low on the water, near the shore, spread across the current.",
+            "Move from the light source to the scene for a clear visual order."
+          ]
+        },
+        {
+          "id": "oms-lesson-05",
+          "title": "深到几乎发紫的海",
+          "titleEn": "Water So Dark It Was Almost Purple",
+          "scene": "远海上，老人低头看着深蓝的海水，鱼线笔直垂向黑暗。",
+          "sceneEn": "Far out at sea, the old man looks down into the dark blue water where his lines hang straight.",
+          "photo": "",
+          "source": "The Gulf Stream · The Old Man and the Sea",
+          "tell": "The sea was very dark blue.",
+          "show": "The water was a dark blue now, so dark that it was almost purple. As he looked down into it he saw the red sifting of the plankton in the dark water and the strange light the sun made now.",
+          "translation": "海水现在是深蓝色的，深得几乎发紫。他低头看下去，看见暗色海水里红色的浮游生物在筛落，还有太阳此刻在水面造出的奇异光。",
+          "techniques": [
+            "用“深得几乎发紫”让颜色有渐变和边界",
+            "把视线带进水下：红色浮游生物、奇异的光",
+            "一个颜色细节就能暗示船已进入远海"
+          ],
+          "techniquesEn": [
+            "Push the colour to a boundary with 'so dark that it was almost purple'.",
+            "Take the eye below the surface: the red plankton and the strange light.",
+            "Let one colour detail suggest how far out to sea the boat has gone."
+          ]
+        },
+        {
+          "id": "oms-lesson-06",
+          "title": "远山像覆雪的峰",
+          "titleEn": "Hills Like Snow-Capped Peaks",
+          "scene": "海岸已经消失，老人眼前只剩下蓝色远山与云。",
+          "sceneEn": "The coast has vanished; only the blue hills and the clouds remain.",
+          "photo": "",
+          "source": "The Gulf Stream · The Old Man and the Sea",
+          "tell": "He was too far out to see the shore, only hills and clouds.",
+          "show": "He could not see the green of the shore now but only the tops of the blue hills that showed white as though they were snow-capped and the clouds that looked like high snow mountains above them.",
+          "translation": "他已经看不见岸上的绿色，只能看见蓝色山丘的顶部，它们泛着白，仿佛覆盖着雪；云朵在它们上方，看起来像高耸的雪山。",
+          "techniques": [
+            "用“看不见”反写距离，比“很远”更有画面",
+            "让蓝色的山显出白色，像覆了雪",
+            "把云比作更高的雪山，层层向上延伸"
+          ],
+          "techniquesEn": [
+            "Show distance through what he can no longer see.",
+            "Let the blue hills show white 'as though they were snow-capped'.",
+            "Compare the clouds to high snow mountains so the view climbs upward."
+          ]
+        },
+        {
+          "id": "oms-lesson-07",
+          "title": "带着死亡活过来的鱼",
+          "titleEn": "A Fish Alive with His Death in Him",
+          "scene": "大海上，大鱼跃出水面，老人第一次看清它的全部。",
+          "sceneEn": "On the sea, the great fish leaps and the old man sees all of it for the first time.",
+          "photo": "",
+          "source": "The Marlin · The Old Man and the Sea",
+          "tell": "The fish jumped out of the water and fell back.",
+          "show": "Then the fish came alive, with his death in him, and rose high out of the water showing all his great length and width and all his power and his beauty. He seemed to hang in the air above the old man in the skiff.",
+          "translation": "接着，大鱼带着体内的死亡活了过来，高高跃出水面，显出它全部的长度和宽度，以及它全部的力量和美。它仿佛悬在小船上空，悬在老人头顶。",
+          "techniques": [
+            "用“带着死亡活了过来”制造矛盾与张力",
+            "同时展示长度、宽度、力量与美，让大鱼完整出现",
+            "用“悬在空中”放慢高潮，让读者停留在这幅画里"
+          ],
+          "techniquesEn": [
+            "Create tension with 'with his death in him' and 'came alive'.",
+            "Show length, width, power and beauty together so the whole fish appears.",
+            "Slow the climax with 'seemed to hang in the air' so the image lingers."
+          ]
+        },
+        {
+          "id": "oms-lesson-08",
+          "title": "从血的暗云中升起",
+          "titleEn": "Rising from the Dark Cloud of Blood",
+          "scene": "大海上，鲨鱼循着血迹从深水中升起。",
+          "sceneEn": "At sea, a shark rises from the deep, drawn by the spreading blood.",
+          "photo": "",
+          "source": "The Sharks · The Old Man and the Sea",
+          "tell": "A shark appeared because it smelled the blood.",
+          "show": "The shark was not an accident. He had come up from deep down in the water as the dark cloud of blood had settled and dispersed in the mile deep sea. He had come up so fast and absolutely without caution that he broke the surface of the blue water and was in the sun.",
+          "translation": "这条鲨鱼不是偶然出现的。它从深水中升上来，那时血的暗云已经在深达一英里的海里沉淀、散开。它上来得那么快，那么毫无顾忌，一下冲破蓝色海面，暴露在阳光里。",
+          "techniques": [
+            "用“不是偶然”把鲨鱼出现写成必然",
+            "用“血的暗云在深海里沉淀、散开”代替“闻到血腥味”",
+            "用“毫无顾忌地冲破海面”写出凶残"
+          ],
+          "techniquesEn": [
+            "Open with 'was not an accident' to make the arrival feel inevitable.",
+            "Replace 'smelled blood' with the dark cloud settling and dispersing in the mile deep sea.",
+            "Show ferocity through the action of breaking the surface 'without caution'."
+          ]
+        },
+        {
+          "id": "oms-lesson-09",
+          "title": "像快艇一样犁过水面",
+          "titleEn": "Plowing Over the Water Like a Speedboat",
+          "scene": "被刺中的鲨鱼在绳圈中翻滚挣扎，海水被搅得雪白。",
+          "sceneEn": "The wounded shark rolls and thrashes in the rope, churning the water white.",
+          "photo": "",
+          "source": "The Sharks · The Old Man and the Sea",
+          "tell": "The dying shark moved quickly across the water.",
+          "show": "Then, on his back, with his tail lashing and his jaws clicking, the shark plowed over the water as a speedboat does. The water was white where his tail beat it and three-quarters of his body was clear above the water when the rope came taut, shivered, and then snapped.",
+          "translation": "接着，它翻过身来，尾巴抽打，下颌咔嗒作响，像快艇一样犁过水面。尾巴拍击的地方，海水被搅得雪白，它四分之三的身体高高露出水面，直到绳索绷紧、颤抖，然后啪地断开。",
+          "techniques": [
+            "用“像快艇一样”把海上的挣扎拉到读者熟悉的画面",
+            "“尾巴抽打”和“下颌咔嗒作响”写出声音与动作",
+            "用“水被搅白”让海水替鲨鱼展示力量"
+          ],
+          "techniquesEn": [
+            "Bridge the unfamiliar sea struggle to a familiar image with 'as a speedboat does'.",
+            "Use 'tail lashing' and 'jaws clicking' for sound and motion.",
+            "Let the white water show the shark's power."
+          ]
+        },
+        {
+          "id": "oms-lesson-10",
+          "title": "用声音写黑暗",
+          "titleEn": "Writing the Dark with Sound",
+          "scene": "黎明前的黑暗里，老人划着船，听见飞鱼拍翅离去。",
+          "sceneEn": "Before dawn, the old man rows in darkness and hears flying fish take off.",
+          "photo": "",
+          "source": "Before Dawn · The Old Man and the Sea",
+          "tell": "The old man heard flying fish in the dark.",
+          "show": "In the dark the old man could feel the morning coming and as he rowed he heard the trembling sound as flying fish left the water and the hissing that their stiff set wings made as they soared away in the darkness.",
+          "translation": "黑暗里，老人能感觉到清晨正在来临；他一边划船，一边听见飞鱼离开水面时颤抖的声响，以及它们僵硬的翅膀在黑暗中滑翔而过时的嘶嘶声。",
+          "techniques": [
+            "在完全黑暗里用声音写看不见的飞鱼",
+            "“颤抖的声响”与“嘶嘶声”形成听觉层次",
+            "让“早晨正在来临”成为可以感受的过程"
+          ],
+          "techniquesEn": [
+            "Describe invisible flying fish through sound in the dark.",
+            "Layer the 'trembling sound' and the 'hissing' of stiff wings.",
+            "Make morning itself something he can feel arriving."
+          ]
+        },
+        {
+          "id": "oms-lesson-11",
+          "title": "遥远的朋友：星星",
+          "titleEn": "Distant Friends: The Stars",
+          "scene": "夜晚的海上，老人靠在船头，望着第一批星星。",
+          "sceneEn": "At night at sea, the old man rests against the bow and watches the first stars.",
+          "photo": "",
+          "source": "The Night at Sea · The Old Man and the Sea",
+          "tell": "It was dark, and he rested under the stars.",
+          "show": "It was dark now as it becomes dark quickly after the sun sets in September. He lay against the worn wood of the bow and rested all that he could. The first stars were out. He did not know the name of Rigel but he saw it and knew soon they would all be out and he would have all his distant friends.",
+          "translation": "现在天已经黑了，就像九月里太阳落山后很快就黑下来一样。他靠在船头磨损的木板上，尽力休息。第一批星星出现了。他不知道那颗星叫参宿七，但他看见了它，知道很快所有星星都会出来，他就又会有他那些遥远的朋友。",
+          "techniques": [
+            "用“九月天黑得很快”交代时间与氛围",
+            "“磨损的船头木板”让孤独有触感",
+            "把星星称作“遥远的朋友”，把情感放进比喻"
+          ],
+          "techniquesEn": [
+            "Use 'dark quickly after the sun sets in September' to set time and mood.",
+            "Ground the loneliness in the worn wood of the bow.",
+            "Call the stars 'distant friends' so the emotion lives in a metaphor."
+          ]
+        },
+        {
+          "id": "oms-lesson-12",
+          "title": "海龟的铠甲与水母",
+          "titleEn": "Turtles, Armour and the Men-of-War",
+          "scene": "海上白日，老人一边守线，一边想起海龟吃水母的样子。",
+          "sceneEn": "By day at sea, the old man minds his lines and remembers how the turtles eat the jellyfish.",
+          "photo": "",
+          "source": "The Gulf Stream · The Old Man and the Sea",
+          "tell": "He loved the elegant turtles and disliked the big slow ones.",
+          "show": "He loved green turtles and hawk-bills with their elegance and speed and their great value and he had a friendly contempt for the huge, stupid loggerheads, yellow in their armour-plating, strange in their love-making, and happily eating the Portuguese men-of-war with their eyes shut.",
+          "translation": "他喜爱绿海龟和玳瑁，喜爱它们的优雅、速度和巨大价值；他对那些又大又蠢的蠵龟则怀有一种友善的轻蔑：它们披着黄色的铠甲，求爱方式古怪，还会闭着眼睛高高兴兴地吃葡萄牙僧帽水母。",
+          "techniques": [
+            "用“优雅”“速度”“价值”并列，写出喜爱",
+            "给蠵龟配上一串意外细节：黄色铠甲、古怪求爱、闭眼吃水母",
+            "用“友善的轻蔑”这种矛盾词组塑造老人的态度"
+          ],
+          "techniquesEn": [
+            "List 'elegance', 'speed' and 'great value' to show affection.",
+            "Give the loggerheads surprising details: yellow armour, strange love-making, eating with shut eyes.",
+            "Use the contradictory phrase 'friendly contempt' to shape the old man's attitude."
+          ]
+        }
+      ]
     }
   ]
 }
