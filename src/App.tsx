@@ -8,7 +8,12 @@ import BookLibraryPage from './pages/BookLibraryPage';
 import HomePage from './pages/HomePage';
 import LessonPage from './pages/LessonPage';
 
-const appBasename = import.meta.env.BASE_URL.replace(/\/$/, '') || '/';
+const repoPrefix = '/show-not-tell';
+const appBasename =
+  window.location.pathname === repoPrefix ||
+  window.location.pathname.startsWith(`${repoPrefix}/`)
+    ? repoPrefix
+    : '/';
 
 function RedirectFrom404() {
   const navigate = useNavigate();
@@ -17,7 +22,7 @@ function RedirectFrom404() {
     const target = sessionStorage.getItem('gh-pages-redirect');
     if (!target) return;
     sessionStorage.removeItem('gh-pages-redirect');
-    const prefix = import.meta.env.BASE_URL.replace(/\/$/, '');
+    const prefix = appBasename === '/' ? '' : appBasename;
     const path = target.startsWith(prefix) ? target.slice(prefix.length) : target;
     navigate(path || '/', { replace: true });
   }, [navigate]);

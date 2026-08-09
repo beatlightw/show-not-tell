@@ -15,9 +15,12 @@ pnpm dev
 
 ## 线上地址
 
-网站已部署到 GitHub Pages：[https://beatlightw.github.io/show-not-tell/](https://beatlightw.github.io/show-not-tell/)
+网站已部署到 GitHub Pages：
 
-每次推送到 `main` 分支，GitHub Actions 会自动构建并发布最新版本。
+- 自定义域名：[https://writing.cc.cd/](https://writing.cc.cd/)
+- GitHub 原始地址：[https://beatlightw.github.io/show-not-tell/](https://beatlightw.github.io/show-not-tell/)
+
+`gh-pages` 分支保存构建产物，更新时重新构建并推送该分支即可上线。
 
 ## 如何更新内容
 
