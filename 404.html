@@ -5,12 +5,13 @@
     <title>Redirecting</title>
     <script>
       (function () {
-        var base = window.location.pathname.split('/').slice(0, -1).join('/');
+        var segments = window.location.pathname.split('/').filter(Boolean);
+        var prefix = segments[0] === 'show-not-tell' ? '/' + segments[0] : '';
         sessionStorage.setItem(
           'gh-pages-redirect',
           window.location.pathname + window.location.search,
         );
-        window.location.replace(base + '/');
+        window.location.replace(prefix + '/');
       })();
     </script>
   </head>
