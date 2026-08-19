@@ -24,3 +24,18 @@ export interface Book {
   introEn?: string;
   lessons: Lesson[];
 }
+
+export interface AdvancedWord {
+  word: string;
+  meaning: string;
+  meaningZh?: string;
+  whenToUse: string;
+  whenToUseZh?: string;
+  example: string;
+}
+
+export interface ThesaurusEntry {
+  id: string;
+  simple: string;
+  advanced: AdvancedWord[];
+}

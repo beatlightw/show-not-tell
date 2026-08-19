@@ -65,6 +65,29 @@ pnpm dev
 
 `titleEn`、`authorEn`、`introEn`、课时里的 `titleEn`、`sceneEn`、`techniquesEn` 都是可选项。网站切换到英文界面时优先使用这些英文字段；没有填写时自动回退到中文内容。
 
+## Thesaurus 词库
+
+Thesaurus 页面的内容写在 `src/content/thesaurus.json` 的 `entries` 数组里，每一条是一组“简单词 → 高级词”：
+
+```json
+{
+  "id": "唯一标识",
+  "simple": "简单词，如 run",
+  "advanced": [
+    {
+      "word": "高级词，如 march",
+      "meaning": "英文释义",
+      "meaningZh": "可选：中文释义",
+      "whenToUse": "英文使用时机",
+      "whenToUseZh": "可选：中文使用时机",
+      "example": "英文例句"
+    }
+  ]
+}
+```
+
+每个简单词下的 `advanced` 数组可以放多个高级词（页面会全部展示）。在 `entries` 数组末尾追加一条即可，`id` 需要唯一。
+
 ### 添加一个课时
 
 在对应书籍的 `lessons` 数组末尾追加一个课时对象，同样保证 `id` 唯一。

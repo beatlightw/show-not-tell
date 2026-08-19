@@ -37,6 +37,14 @@ export default function Layout() {
             >
               {t('navLibrary')}
             </NavLink>
+            <NavLink
+              to="/thesaurus"
+              className={({ isActive }) =>
+                isActive ? 'site-nav__link is-active' : 'site-nav__link'
+              }
+            >
+              {t('navThesaurus')}
+            </NavLink>
           </nav>
           <div className="site-header__right">
             <button
@@ -78,6 +86,7 @@ export default function Layout() {
           <nav className="site-footer__nav" aria-label={t('ariaFooterNav')}>
             <Link to="/">{t('home')}</Link>
             <Link to="/books">{t('navLibrary')}</Link>
+            <Link to="/thesaurus">{t('navThesaurus')}</Link>
           </nav>
         </div>
         <div className="container site-footer__bar">

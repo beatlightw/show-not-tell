@@ -7,6 +7,7 @@ import BookDetailPage from './pages/BookDetailPage';
 import BookLibraryPage from './pages/BookLibraryPage';
 import HomePage from './pages/HomePage';
 import LessonPage from './pages/LessonPage';
+import ThesaurusPage from './pages/ThesaurusPage';
 
 const repoPrefix = '/show-not-tell';
 const appBasename =
@@ -42,6 +43,7 @@ export default function App() {
             <Route path="/books" element={<BookLibraryPage />} />
             <Route path="/book/:bookId" element={<BookDetailPage />} />
             <Route path="/lesson/:bookId/:lessonId" element={<LessonPage />} />
+            <Route path="/thesaurus" element={<ThesaurusPage />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Routes>

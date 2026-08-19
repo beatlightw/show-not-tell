@@ -1,0 +1,246 @@
+{
+  "entries": [
+    {
+      "id": "run",
+      "simple": "run",
+      "advanced": [
+        {"word": "march", "meaning": "Walk with steady, deliberate steps, often with purpose or force.", "meaningZh": "以坚定、有节奏的步伐行进，常带着目标或气势。", "whenToUse": "Use when a character moves with determination, anger, or discipline.", "whenToUseZh": "用于人物带着决心、怒气或纪律感前行时。", "example": "He marched into the office without a word."},
+        {"word": "sprint", "meaning": "Run at full speed over a short distance.", "meaningZh": "短距离内全速奔跑。", "whenToUse": "Use for urgent races, escapes, or bursts of speed.", "whenToUseZh": "用于紧急追赶、逃跑或突然爆发的速度。", "example": "She sprinted down the platform and caught the train."},
+        {"word": "gallop", "meaning": "Run fast with long, bounding strides, like a horse.", "meaningZh": "像马一样大步飞跑。", "whenToUse": "Use for wild speed, excitement, or animals in motion.", "whenToUseZh": "用于狂野的速度、兴奋或动物奔跑。", "example": "The horses galloped across the field."},
+        {"word": "dart", "meaning": "Move suddenly and quickly in a particular direction.", "meaningZh": "朝某个方向突然快速地移动。", "whenToUse": "Use for quick, nervous, or evasive movement.", "whenToUseZh": "用于迅速、紧张或躲避性的移动。", "example": "A fox darted across the road."},
+        {"word": "bolt", "meaning": "Run away suddenly, as if startled.", "meaningZh": "受惊般突然跑开。", "whenToUse": "Use when someone flees in panic or surprise.", "whenToUseZh": "用于惊慌或意外之下的逃跑。", "example": "The boy bolted out the back door."}
+      ]
+    },
+    {
+      "id": "walk",
+      "simple": "walk",
+      "advanced": [
+        {"word": "stroll", "meaning": "Walk slowly and casually.", "meaningZh": "悠闲地慢走。", "whenToUse": "Use for relaxed walks with no hurry.", "whenToUseZh": "用于不赶时间的放松漫步。", "example": "They strolled through the market."},
+        {"word": "stride", "meaning": "Walk with long, confident steps.", "meaningZh": "迈着自信的大步走。", "whenToUse": "Use for confidence, purpose, or authority.", "whenToUseZh": "用于表现自信、目标感或权威。", "example": "She strode into the meeting room."},
+        {"word": "trudge", "meaning": "Walk slowly and heavily, as if tired.", "meaningZh": "疲惫地缓慢行走。", "whenToUse": "Use for exhaustion, difficulty, or unwillingness.", "whenToUseZh": "用于疲惫、艰难或不情愿的行走。", "example": "They trudged through the snow."},
+        {"word": "amble", "meaning": "Walk at an easy, relaxed pace.", "meaningZh": "轻松从容地走。", "whenToUse": "Use for unhurried wandering or calm.", "whenToUseZh": "用于漫无目的的从容漫步。", "example": "He ambled down the lane, hands in pockets."},
+        {"word": "shuffle", "meaning": "Walk slowly without lifting the feet.", "meaningZh": "拖着脚步慢慢走。", "whenToUse": "Use for tiredness, old age, or reluctance.", "whenToUseZh": "用于疲惫、年老或不情愿。", "example": "The old man shuffled to the door."}
+      ]
+    },
+    {
+      "id": "look",
+      "simple": "look",
+      "advanced": [
+        {"word": "gaze", "meaning": "Look steadily for a long time.", "meaningZh": "长时间注视。", "whenToUse": "Use for wonder, love, or deep thought.", "whenToUseZh": "用于惊叹、爱意或沉思。", "example": "She gazed at the stars."},
+        {"word": "glare", "meaning": "Look angrily and intensely.", "meaningZh": "愤怒地瞪视。", "whenToUse": "Use for anger, hostility, or warning.", "whenToUseZh": "用于愤怒、敌意或警告。", "example": "He glared at the intruder."},
+        {"word": "glance", "meaning": "Look quickly and briefly.", "meaningZh": "匆匆一瞥。", "whenToUse": "Use for a quick check or a stolen look.", "whenToUseZh": "用于快速查看或偷瞄。", "example": "She glanced at the clock."},
+        {"word": "peek", "meaning": "Look quickly from a hidden place.", "meaningZh": "偷偷地快速看一眼。", "whenToUse": "Use for curiosity, secrecy, or hesitation.", "whenToUseZh": "用于好奇、秘密或犹豫地偷看。", "example": "He peeked through the curtains."},
+        {"word": "stare", "meaning": "Look fixedly with wide eyes.", "meaningZh": "目不转睛地看。", "whenToUse": "Use for shock, fascination, or rudeness.", "whenToUseZh": "用于震惊、入迷或失礼的注视。", "example": "The child stared at the magician."}
+      ]
+    },
+    {
+      "id": "laugh",
+      "simple": "laugh",
+      "advanced": [
+        {"word": "chuckle", "meaning": "Laugh quietly, often to oneself.", "meaningZh": "轻声地笑。", "whenToUse": "Use for private amusement or dry humor.", "whenToUseZh": "用于私下好笑或冷幽默。", "example": "He chuckled at his own joke."},
+        {"word": "giggle", "meaning": "Laugh in a light, silly way.", "meaningZh": "咯咯地轻笑。", "whenToUse": "Use for amusement, nerves, or childish joy.", "whenToUseZh": "用于好玩、紧张或孩子气的开心。", "example": "The girls giggled in the corner."},
+        {"word": "snicker", "meaning": "Laugh quietly in a disrespectful way.", "meaningZh": "窃笑，带点轻蔑。", "whenToUse": "Use for mockery or secret amusement.", "whenToUseZh": "用于嘲讽或暗自好笑。", "example": "Someone snickered behind his back."},
+        {"word": "guffaw", "meaning": "Laugh loudly and heartily.", "meaningZh": "放声大笑。", "whenToUse": "Use for sudden, unrestrained laughter.", "whenToUseZh": "用于突然、毫不掩饰的大笑。", "example": "The whole room guffawed at the joke."},
+        {"word": "cackle", "meaning": "Laugh in a harsh, high voice.", "meaningZh": "尖声怪笑。", "whenToUse": "Use for a sinister, witch-like laugh.", "whenToUseZh": "用于阴森或尖利的笑。", "example": "The old woman cackled."}
+      ]
+    },
+    {
+      "id": "cry",
+      "simple": "cry",
+      "advanced": [
+        {"word": "weep", "meaning": "Cry quietly with tears.", "meaningZh": "默默流泪。", "whenToUse": "Use for grief or deep tenderness.", "whenToUseZh": "用于悲伤或深沉的感动。", "example": "She wept at the letter."},
+        {"word": "sob", "meaning": "Cry with short, broken breaths.", "meaningZh": "抽泣。", "whenToUse": "Use for helpless grief or distress.", "whenToUseZh": "用于无助的悲伤或痛苦。", "example": "He sobbed into his hands."},
+        {"word": "wail", "meaning": "Cry loudly with a long, high sound.", "meaningZh": "放声大哭。", "whenToUse": "Use for extreme grief or pain.", "whenToUseZh": "用于极度的悲伤或痛苦。", "example": "The child wailed for his mother."},
+        {"word": "whimper", "meaning": "Cry softly with weak sounds.", "meaningZh": "轻声呜咽。", "whenToUse": "Use for fear, pain, or pleading.", "whenToUseZh": "用于害怕、疼痛或哀求。", "example": "The puppy whimpered by the door."},
+        {"word": "blubber", "meaning": "Cry noisily with tears and sobs.", "meaningZh": "哭得稀里哗啦。", "whenToUse": "Use for messy, uncontrolled crying.", "whenToUseZh": "用于失控的嚎啕大哭。", "example": "He blubbered through the whole story."}
+      ]
+    },
+    {
+      "id": "talk",
+      "simple": "talk",
+      "advanced": [
+        {"word": "murmur", "meaning": "Speak softly and indistinctly.", "meaningZh": "轻声低语。", "whenToUse": "Use for intimacy, secrecy, or background voices.", "whenToUseZh": "用于亲昵、秘密或背景人声。", "example": "They murmured in the dark."},
+        {"word": "mumble", "meaning": "Speak unclearly, often to oneself.", "meaningZh": "含糊地说。", "whenToUse": "Use for shyness, tiredness, or avoidance.", "whenToUseZh": "用于害羞、疲惫或回避。", "example": "He mumbled an apology."},
+        {"word": "whisper", "meaning": "Speak very quietly, breath to breath.", "meaningZh": "耳语。", "whenToUse": "Use for secrets, awe, or fear of being heard.", "whenToUseZh": "用于秘密、惊叹或怕被听见。", "example": "She whispered his name."},
+        {"word": "chatter", "meaning": "Talk quickly and continuously about small things.", "meaningZh": "喋喋不休。", "whenToUse": "Use for nervousness or casual small talk.", "whenToUseZh": "用于紧张或闲聊。", "example": "They chattered all through lunch."},
+        {"word": "ramble", "meaning": "Talk at length without a clear point.", "meaningZh": "东拉西扯地说。", "whenToUse": "Use for confusion, age, or wandering thoughts.", "whenToUseZh": "用于语无伦次或思绪散漫。", "example": "He rambled about his childhood."}
+      ]
+    },
+    {
+      "id": "eat",
+      "simple": "eat",
+      "advanced": [
+        {"word": "devour", "meaning": "Eat hungrily and greedily.", "meaningZh": "狼吞虎咽地吃。", "whenToUse": "Use for extreme hunger or greed.", "whenToUseZh": "用于极度饥饿或贪婪。", "example": "He devoured the whole cake."},
+        {"word": "gobble", "meaning": "Eat quickly and noisily.", "meaningZh": "吧唧吧唧地快吃。", "whenToUse": "Use for impatience or bad manners.", "whenToUseZh": "用于急切或吃相不佳。", "example": "The kids gobbled their breakfast."},
+        {"word": "munch", "meaning": "Eat with a steady crunching sound.", "meaningZh": "咔嚓咔嚓地嚼。", "whenToUse": "Use for casual or continuous eating.", "whenToUseZh": "用于随意或不停地嚼。", "example": "She munched on an apple."},
+        {"word": "nibble", "meaning": "Eat in tiny, careful bites.", "meaningZh": "小口细嚼。", "whenToUse": "Use for delicacy, shyness, or lack of appetite.", "whenToUseZh": "用于文雅、害羞或没胃口。", "example": "He nibbled at his toast."},
+        {"word": "wolf", "meaning": "Eat very quickly and greedily.", "meaningZh": "像饿狼一样猛吃。", "whenToUse": "Use for ravenous hunger.", "whenToUseZh": "用于饿极了的时候。", "example": "They wolfed down the soup."}
+      ]
+    },
+    {
+      "id": "sit",
+      "simple": "sit",
+      "advanced": [
+        {"word": "slump", "meaning": "Sit or fall heavily with drooping posture.", "meaningZh": "瘫坐。", "whenToUse": "Use for exhaustion or defeat.", "whenToUseZh": "用于疲惫或挫败。", "example": "She slumped into the chair."},
+        {"word": "collapse", "meaning": "Fall down suddenly, losing strength.", "meaningZh": "瘫倒。", "whenToUse": "Use for exhaustion, shock, or injury.", "whenToUseZh": "用于虚脱、震惊或受伤。", "example": "He collapsed onto the bed."},
+        {"word": "sink", "meaning": "Lower the body slowly into a seat.", "meaningZh": "缓缓坐下。", "whenToUse": "Use for relief, weariness, or despair.", "whenToUseZh": "用于放松、疲倦或绝望。", "example": "She sank into the armchair."},
+        {"word": "perch", "meaning": "Sit lightly on the edge of something.", "meaningZh": "轻轻坐在边缘。", "whenToUse": "Use for nervousness, readiness, or small creatures.", "whenToUseZh": "用于紧张、随时起身或小鸟小动物。", "example": "He perched on the arm of the sofa."},
+        {"word": "lounge", "meaning": "Sit or lie in a relaxed way.", "meaningZh": "懒洋洋地躺着。", "whenToUse": "Use for comfort, idleness, or confidence.", "whenToUseZh": "用于舒适、无所事事或自信。", "example": "They lounged by the pool."}
+      ]
+    },
+    {
+      "id": "stand",
+      "simple": "stand",
+      "advanced": [
+        {"word": "tower", "meaning": "Stand very tall above others.", "meaningZh": "高耸地站着。", "whenToUse": "Use to emphasize height or dominance.", "whenToUseZh": "用于强调身高或气势。", "example": "He towered over his brother."},
+        {"word": "loom", "meaning": "Stand tall and threatening in the distance.", "meaningZh": "若隐若现地矗立，带压迫感。", "whenToUse": "Use for threat, mystery, or a menacing presence.", "whenToUseZh": "用于威胁、神秘或压迫感。", "example": "A shadow loomed at the end of the hall."},
+        {"word": "rear", "meaning": "Rise up on the hind legs or rise high.", "meaningZh": "高高立起。", "whenToUse": "Use for horses, anger, or sudden height.", "whenToUseZh": "用于马匹立起、愤怒或突然变高。", "example": "The horse reared and whinnied."},
+        {"word": "rise", "meaning": "Stand up or move upward smoothly.", "meaningZh": "缓缓起身。", "whenToUse": "Use for dignity, ceremony, or gradual movement.", "whenToUseZh": "用于庄重、仪式感或缓慢起身。", "example": "The audience rose as she entered."},
+        {"word": "hover", "meaning": "Stand near, waiting or uncertain.", "meaningZh": "徘徊在旁，不走也不靠近。", "whenToUse": "Use for hesitation, attention, or being ready.", "whenToUseZh": "用于犹豫、留意或待命。", "example": "The nurse hovered by the bed."}
+      ]
+    },
+    {
+      "id": "go",
+      "simple": "go",
+      "advanced": [
+        {"word": "dash", "meaning": "Move quickly and suddenly.", "meaningZh": "猛冲。", "whenToUse": "Use for urgency, fear, or excitement.", "whenToUseZh": "用于紧迫、恐惧或兴奋。", "example": "She dashed out of the room."},
+        {"word": "hurry", "meaning": "Move with quick, purposeful steps.", "meaningZh": "匆匆赶路。", "whenToUse": "Use for being late or pressed for time.", "whenToUseZh": "用于迟到或时间紧迫。", "example": "He hurried to the station."},
+        {"word": "flee", "meaning": "Run away from danger.", "meaningZh": "逃离危险。", "whenToUse": "Use for escape from threat.", "whenToUseZh": "用于躲避危险。", "example": "The crowd fled the burning building."},
+        {"word": "wander", "meaning": "Move without a clear purpose.", "meaningZh": "漫无目的地走。", "whenToUse": "Use for daydreaming, exploration, or loss.", "whenToUseZh": "用于走神、探索或迷失。", "example": "She wandered through the old streets."},
+        {"word": "zoom", "meaning": "Move very fast, especially past others.", "meaningZh": "飞速掠过。", "whenToUse": "Use for speed, excitement, or vehicles.", "whenToUseZh": "用于速度、兴奋或交通工具。", "example": "The car zoomed past us."}
+      ]
+    },
+    {
+      "id": "jump",
+      "simple": "jump",
+      "advanced": [
+        {"word": "leap", "meaning": "Spring high with force.", "meaningZh": "用力跃起。", "whenToUse": "Use for excitement, escape, or athletic effort.", "whenToUseZh": "用于兴奋、逃脱或运动。", "example": "He leaped over the fence."},
+        {"word": "hop", "meaning": "Jump on one foot or with small bounces.", "meaningZh": "单脚跳或小跳。", "whenToUse": "Use for light, playful, or careful movement.", "whenToUseZh": "用于轻快、玩耍或小心翼翼。", "example": "She hopped across the stepping stones."},
+        {"word": "bound", "meaning": "Jump with long, energetic strides.", "meaningZh": "欢快地大步跳。", "whenToUse": "Use for joy, energy, or approaching quickly.", "whenToUseZh": "用于快乐、活力或快步靠近。", "example": "The dog bounded toward him."},
+        {"word": "spring", "meaning": "Jump suddenly and quickly.", "meaningZh": "猛地弹起。", "whenToUse": "Use for surprise, attack, or sudden release.", "whenToUseZh": "用于惊吓、袭击或突然弹起。", "example": "He sprang to his feet."},
+        {"word": "vault", "meaning": "Jump over something using hands or momentum.", "meaningZh": "撑手跃过。", "whenToUse": "Use for agility, athletic feats, or obstacles.", "whenToUseZh": "用于敏捷、运动或越过障碍。", "example": "She vaulted over the rail."}
+      ]
+    },
+    {
+      "id": "hold",
+      "simple": "hold",
+      "advanced": [
+        {"word": "clutch", "meaning": "Grip tightly and protectively.", "meaningZh": "紧紧攥住。", "whenToUse": "Use for fear, anxiety, or possessiveness.", "whenToUseZh": "用于害怕、焦虑或占有。", "example": "She clutched the letter to her chest."},
+        {"word": "grip", "meaning": "Hold firmly.", "meaningZh": "牢牢握住。", "whenToUse": "Use for control, danger, or determination.", "whenToUseZh": "用于控制、危险或坚定。", "example": "He gripped the rope."},
+        {"word": "grasp", "meaning": "Take hold with the whole hand.", "meaningZh": "用手抓住。", "whenToUse": "Use for firmness, rescue, or sudden understanding.", "whenToUseZh": "用于握紧、施救或突然领悟。", "example": "She grasped his arm."},
+        {"word": "clasp", "meaning": "Hold tightly with hands folded together.", "meaningZh": "双手紧握。", "whenToUse": "Use for affection, prayer, or reassurance.", "whenToUseZh": "用于亲昵、祈祷或安慰。", "example": "They clasped hands."},
+        {"word": "squeeze", "meaning": "Press tightly, often briefly.", "meaningZh": "用力捏。", "whenToUse": "Use for comfort, affection, or nervousness.", "whenToUseZh": "用于安慰、亲昵或紧张。", "example": "He squeezed her hand."}
+      ]
+    },
+    {
+      "id": "say",
+      "simple": "say",
+      "advanced": [
+        {"word": "snap", "meaning": "Say sharply and briefly.", "meaningZh": "厉声说。", "whenToUse": "Use for irritation or sudden anger.", "whenToUseZh": "用于烦躁或突然发怒。", "example": "\"Stop it,\" she snapped."},
+        {"word": "blurt", "meaning": "Say suddenly without thinking.", "meaningZh": "脱口而出。", "whenToUse": "Use for surprise, honesty, or loss of control.", "whenToUseZh": "用于惊讶、直率或失控。", "example": "He blurted out the secret."},
+        {"word": "mutter", "meaning": "Say quietly and unclearly, often complaining.", "meaningZh": "低声嘟囔。", "whenToUse": "Use for complaint, anger under breath, or speaking to oneself.", "whenToUseZh": "用于抱怨、低声发怒或自言自语。", "example": "She muttered something about the traffic."},
+        {"word": "declare", "meaning": "Say clearly and formally.", "meaningZh": "郑重宣布。", "whenToUse": "Use for announcements, confidence, or ceremony.", "whenToUseZh": "用于宣布、自信或正式场合。", "example": "\"I'm leaving,\" he declared."},
+        {"word": "hiss", "meaning": "Say sharply through the teeth.", "meaningZh": "嘶声低吼。", "whenToUse": "Use for anger, warning, or secrecy.", "whenToUseZh": "用于愤怒、警告或秘密。", "example": "He hissed a warning."}
+      ]
+    },
+    {
+      "id": "smile",
+      "simple": "smile",
+      "advanced": [
+        {"word": "beam", "meaning": "Smile broadly with joy.", "meaningZh": "灿烂地笑。", "whenToUse": "Use for pride, delight, or warmth.", "whenToUseZh": "用于自豪、高兴或温暖。", "example": "She beamed at the award."},
+        {"word": "grin", "meaning": "Smile widely, showing teeth.", "meaningZh": "咧嘴笑。", "whenToUse": "Use for mischief, amusement, or triumph.", "whenToUseZh": "用于淘气、好玩或得意。", "example": "He grinned at the trick."},
+        {"word": "smirk", "meaning": "Smile in a smug, irritating way.", "meaningZh": "得意地笑。", "whenToUse": "Use for arrogance or secret satisfaction.", "whenToUseZh": "用于傲慢或暗自得意。", "example": "She smirked at his mistake."},
+        {"word": "flash", "meaning": "Give a sudden quick smile.", "meaningZh": "突然一闪的笑容。", "whenToUse": "Use for brief charm or warmth.", "whenToUseZh": "用于短暂的笑容。", "example": "He flashed her a smile."},
+        {"word": "glow", "meaning": "Radiate happiness in the face.", "meaningZh": "脸上发光，满心欢喜。", "whenToUse": "Use for inner joy or pride.", "whenToUseZh": "用于内心的喜悦或自豪。", "example": "Her face glowed with pride."}
+      ]
+    },
+    {
+      "id": "drink",
+      "simple": "drink",
+      "advanced": [
+        {"word": "gulp", "meaning": "Drink quickly in large mouthfuls.", "meaningZh": "大口快喝。", "whenToUse": "Use for thirst, haste, or nervousness.", "whenToUseZh": "用于口渴、匆忙或紧张。", "example": "He gulped the cold water."},
+        {"word": "sip", "meaning": "Drink slowly in small amounts.", "meaningZh": "小口啜饮。", "whenToUse": "Use for pleasure, caution, or politeness.", "whenToUseZh": "用于享受、谨慎或礼貌。", "example": "She sipped her tea."},
+        {"word": "swig", "meaning": "Drink straight from a bottle, quickly.", "meaningZh": "仰头灌饮。", "whenToUse": "Use for casual, rough, or hurried drinking.", "whenToUseZh": "用于随意、豪爽或匆忙。", "example": "He took a swig from the flask."},
+        {"word": "slurp", "meaning": "Drink noisily.", "meaningZh": "吸溜着喝。", "whenToUse": "Use for rudeness, hunger, or soup.", "whenToUseZh": "用于吃相不佳或喝汤。", "example": "The kids slurped their noodles."},
+        {"word": "drain", "meaning": "Drink until empty.", "meaningZh": "一饮而尽。", "whenToUse": "Use for finishing a drink completely.", "whenToUseZh": "用于把酒水喝完。", "example": "She drained her glass."}
+      ]
+    },
+    {
+      "id": "leave",
+      "simple": "leave",
+      "advanced": [
+        {"word": "slip away", "meaning": "Leave quietly and unnoticed.", "meaningZh": "悄悄溜走。", "whenToUse": "Use for secrecy or avoiding attention.", "whenToUseZh": "用于偷偷离开或不想被注意。", "example": "He slipped away from the party."},
+        {"word": "depart", "meaning": "Leave, often for a journey.", "meaningZh": "出发，启程。", "whenToUse": "Use for formal or planned departures.", "whenToUseZh": "用于正式或有计划的离开。", "example": "The train departs at noon."},
+        {"word": "vanish", "meaning": "Disappear suddenly without a trace.", "meaningZh": "突然消失。", "whenToUse": "Use for mystery, magic, or quick escape.", "whenToUseZh": "用于神秘、魔法或快速消失。", "example": "She vanished into the crowd."},
+        {"word": "escape", "meaning": "Get away from danger or confinement.", "meaningZh": "逃脱。", "whenToUse": "Use for danger, prison, or pressure.", "whenToUseZh": "用于危险、束缚或压力。", "example": "They escaped through the window."},
+        {"word": "retreat", "meaning": "Move back or withdraw.", "meaningZh": "撤退。", "whenToUse": "Use for fear, defeat, or careful withdrawal.", "whenToUseZh": "用于害怕、失败或小心撤退。", "example": "The soldiers retreated into the hills."}
+      ]
+    },
+    {
+      "id": "hit",
+      "simple": "hit",
+      "advanced": [
+        {"word": "slam", "meaning": "Hit with great force.", "meaningZh": "猛击。", "whenToUse": "Use for violent, loud impact.", "whenToUseZh": "用于猛烈而响亮的撞击。", "example": "He slammed his fist on the table."},
+        {"word": "strike", "meaning": "Hit once with deliberate force.", "meaningZh": "挥打。", "whenToUse": "Use for attack, sudden impact, or dramatic moments.", "whenToUseZh": "用于攻击、突然撞击或戏剧性时刻。", "example": "Lightning struck the tree."},
+        {"word": "bash", "meaning": "Hit hard, often repeatedly.", "meaningZh": "痛打。", "whenToUse": "Use for rough, messy violence.", "whenToUseZh": "用于粗暴的打击。", "example": "He bashed the door with a chair."},
+        {"word": "pound", "meaning": "Hit again and again.", "meaningZh": "连续捶打。", "whenToUse": "Use for repeated, rhythmic blows.", "whenToUseZh": "用于重复而有节奏的敲打。", "example": "She pounded on the door."},
+        {"word": "smack", "meaning": "Hit with a flat, open hand.", "meaningZh": "掌掴，啪地一拍。", "whenToUse": "Use for a quick, sharp slap.", "whenToUseZh": "用于快速而响亮的一掌。", "example": "He smacked the ball over the net."}
+      ]
+    },
+    {
+      "id": "watch",
+      "simple": "watch",
+      "advanced": [
+        {"word": "scrutinize", "meaning": "Examine very carefully.", "meaningZh": "仔细审视。", "whenToUse": "Use for suspicion, evaluation, or detail hunting.", "whenToUseZh": "用于怀疑、评估或找细节。", "example": "He scrutinized the document."},
+        {"word": "observe", "meaning": "Watch attentively to learn.", "meaningZh": "观察。", "whenToUse": "Use for science, study, or quiet attention.", "whenToUseZh": "用于研究、学习或安静观察。", "example": "She observed the birds."},
+        {"word": "study", "meaning": "Look closely, trying to understand.", "meaningZh": "端详研究。", "whenToUse": "Use for analysis, memory, or wonder.", "whenToUseZh": "用于分析、记忆或好奇。", "example": "He studied her face."},
+        {"word": "monitor", "meaning": "Keep watching over time.", "meaningZh": "持续监测。", "whenToUse": "Use for progress, safety, or control.", "whenToUseZh": "用于进度、安全或监控。", "example": "Nurses monitored his heart rate."},
+        {"word": "peer", "meaning": "Look closely, squinting or leaning in.", "meaningZh": "眯眼细看。", "whenToUse": "Use for dim light, distance, or curiosity.", "whenToUseZh": "用于光线暗、距离远或好奇。", "example": "She peered into the fog."}
+      ]
+    },
+    {
+      "id": "write",
+      "simple": "write",
+      "advanced": [
+        {"word": "scribble", "meaning": "Write quickly and carelessly.", "meaningZh": "潦草书写。", "whenToUse": "Use for haste or rough notes.", "whenToUseZh": "用于匆忙或草稿。", "example": "He scribbled a note."},
+        {"word": "jot", "meaning": "Write down briefly and quickly.", "meaningZh": "随手记下。", "whenToUse": "Use for quick notes or reminders.", "whenToUseZh": "用于快速记录或备忘。", "example": "She jotted down the address."},
+        {"word": "scrawl", "meaning": "Write messily and unevenly.", "meaningZh": "歪歪扭扭地写。", "whenToUse": "Use for bad handwriting, anger, or haste.", "whenToUseZh": "用于字迹潦草、愤怒或匆忙。", "example": "He scrawled his name."},
+        {"word": "draft", "meaning": "Write a first, rough version.", "meaningZh": "起草。", "whenToUse": "Use for planning, editing, or beginnings.", "whenToUseZh": "用于写作初稿或起草。", "example": "She drafted the opening paragraph."},
+        {"word": "inscribe", "meaning": "Write or carve words permanently.", "meaningZh": "刻写，题写。", "whenToUse": "Use for monuments, gifts, or formal dedications.", "whenToUseZh": "用于纪念碑、礼物或题词。", "example": "His name was inscribed on the trophy."}
+      ]
+    },
+    {
+      "id": "touch",
+      "simple": "touch",
+      "advanced": [
+        {"word": "brush", "meaning": "Touch lightly in passing.", "meaningZh": "轻轻掠过。", "whenToUse": "Use for accidental or fleeting contact.", "whenToUseZh": "用于不经意或瞬间的接触。", "example": "Her sleeve brushed his arm."},
+        {"word": "graze", "meaning": "Touch lightly, barely scraping.", "meaningZh": "轻轻擦过。", "whenToUse": "Use for delicate or near-miss contact.", "whenToUseZh": "用于轻柔或差点碰到的接触。", "example": "The bullet grazed his shoulder."},
+        {"word": "stroke", "meaning": "Move the hand gently over something.", "meaningZh": "抚摸。", "whenToUse": "Use for comfort, affection, or animals.", "whenToUseZh": "用于安慰、亲昵或抚摸动物。", "example": "She stroked the cat."},
+        {"word": "caress", "meaning": "Touch gently and lovingly.", "meaningZh": "温柔抚摸。", "whenToUse": "Use for tenderness or romance.", "whenToUseZh": "用于温柔或浪漫。", "example": "He caressed her cheek."},
+        {"word": "pat", "meaning": "Touch lightly a few times with the open hand.", "meaningZh": "轻拍。", "whenToUse": "Use for reassurance, praise, or comfort.", "whenToUseZh": "用于安慰、表扬或安抚。", "example": "She patted his shoulder."}
+      ]
+    },
+    {
+      "id": "climb",
+      "simple": "climb",
+      "advanced": [
+        {"word": "scramble", "meaning": "Climb quickly and clumsily.", "meaningZh": "手脚并用地爬。", "whenToUse": "Use for urgency or rough terrain.", "whenToUseZh": "用于紧急或崎岖地形。", "example": "They scrambled up the hill."},
+        {"word": "scale", "meaning": "Climb up something high or steep.", "meaningZh": "攀上高处。", "whenToUse": "Use for walls, mountains, or impressive feats.", "whenToUseZh": "用于爬墙、登山或壮举。", "example": "He scaled the castle wall."},
+        {"word": "ascend", "meaning": "Go upward, especially gradually.", "meaningZh": "逐渐上升。", "whenToUse": "Use for formal movement up.", "whenToUseZh": "用于正式地向上移动。", "example": "They ascended the stairs."},
+        {"word": "mount", "meaning": "Get up onto something.", "meaningZh": "登上。", "whenToUse": "Use for horses, platforms, or steps.", "whenToUseZh": "用于上马、登台或上台阶。", "example": "She mounted the bicycle."},
+        {"word": "claw", "meaning": "Climb desperately using the hands.", "meaningZh": "用手拼命攀爬。", "whenToUse": "Use for fear, desperation, or exhaustion.", "whenToUseZh": "用于害怕、拼命或筋疲力尽。", "example": "He clawed his way up the cliff."}
+      ]
+    },
+    {
+      "id": "sleep",
+      "simple": "sleep",
+      "advanced": [
+        {"word": "doze", "meaning": "Sleep lightly, often briefly.", "meaningZh": "打盹。", "whenToUse": "Use for light sleep or fatigue.", "whenToUseZh": "用于浅睡或疲惫。", "example": "He dozed in the armchair."},
+        {"word": "nap", "meaning": "Sleep for a short time during the day.", "meaningZh": "午睡小憩。", "whenToUse": "Use for a planned short rest.", "whenToUseZh": "用于计划中的短暂休息。", "example": "She took a nap after lunch."},
+        {"word": "slumber", "meaning": "Sleep peacefully.", "meaningZh": "安睡。", "whenToUse": "Use for poetic or literary description.", "whenToUseZh": "用于文学化的描写。", "example": "The city slumbered under the snow."},
+        {"word": "drowse", "meaning": "Be half asleep, drifting in and out.", "meaningZh": "半睡半醒。", "whenToUse": "Use for drowsiness or a quiet lazy state.", "whenToUseZh": "用于困倦或慵懒的状态。", "example": "He drowsed by the window."},
+        {"word": "snooze", "meaning": "Sleep lightly, often comfortably.", "meaningZh": "小睡，睡懒觉。", "whenToUse": "Use for casual, comfortable sleep.", "whenToUseZh": "用于随意、舒服的小睡。", "example": "The cat snoozed in the sun."}
+      ]
+    }
+  ]
+}

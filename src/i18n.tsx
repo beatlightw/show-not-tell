@@ -5,7 +5,7 @@ import {
   useState,
   type ReactNode,
 } from 'react';
-import type { Book, Lesson } from './content/types';
+import type { AdvancedWord, Book, Lesson } from './content/types';
 
 export type Language = 'zh' | 'en';
 
@@ -24,6 +24,7 @@ const translations = {
     brandSub: "Show, Don't Tell",
     navHome: '首页',
     navLibrary: '阅读书库',
+    navThesaurus: '同义词库',
     startLearning: '开始学习',
     browseLibrary: '浏览书库',
     heroEyebrow: '英语文学写作 · 描写训练',
@@ -72,6 +73,16 @@ const translations = {
     footerSlogan: '以大师之笔，练描写之功',
     libraryPageTitle: '阅读书库',
     libraryPageText: '选择一本书，进入逐课的描写学习。',
+    thesaurusEyebrow: 'Word Power',
+    thesaurusTitle: '同义词库',
+    thesaurusText: '把平淡的常用词换成有画面的高级词，并知道什么时候用最合适。',
+    simpleLabel: '简单词',
+    advancedLabel: '高级词',
+    whenToUseLabel: '什么时候用',
+    exampleLabel: '例句',
+    searchLabel: '搜索词汇',
+    searchPlaceholder: '搜索简单词，如 run',
+    searchEmpty: '没有找到匹配的词组。',
     home: '首页',
     ariaNav: '主导航',
     ariaFooterNav: '页脚导航',
@@ -86,6 +97,7 @@ const translations = {
     brandSub: 'English Literature Writing',
     navHome: 'Home',
     navLibrary: 'Library',
+    navThesaurus: 'Thesaurus',
     startLearning: 'Start Learning',
     browseLibrary: 'Browse Library',
     heroEyebrow: 'English Literature · Description Practice',
@@ -138,6 +150,17 @@ const translations = {
     libraryPageTitle: 'Reading Library',
     libraryPageText:
       'Choose a book and start learning description lesson by lesson.',
+    thesaurusEyebrow: 'Word Power',
+    thesaurusTitle: 'Thesaurus',
+    thesaurusText:
+      'Trade flat common words for vivid, image-rich alternatives and know exactly when to use them.',
+    simpleLabel: 'Simple',
+    advancedLabel: 'Advanced',
+    whenToUseLabel: 'When to use',
+    exampleLabel: 'Example',
+    searchLabel: 'Search thesaurus',
+    searchPlaceholder: 'Search a simple word, e.g. run',
+    searchEmpty: 'No matching words found.',
     home: 'Home',
     ariaNav: 'Main navigation',
     ariaFooterNav: 'Footer navigation',
@@ -216,4 +239,20 @@ export function lessonTechniques(lesson: Lesson, language: Language) {
   return language === 'en' && lesson.techniquesEn
     ? lesson.techniquesEn
     : lesson.techniques;
+}
+
+export function thesaurusMeaning(
+  word: AdvancedWord,
+  language: Language,
+) {
+  return language === 'zh' && word.meaningZh ? word.meaningZh : word.meaning;
+}
+
+export function thesaurusWhenToUse(
+  word: AdvancedWord,
+  language: Language,
+) {
+  return language === 'zh' && word.whenToUseZh
+    ? word.whenToUseZh
+    : word.whenToUse;
 }
